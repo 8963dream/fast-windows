@@ -4,7 +4,7 @@
 2. QQ
 3. Snipaste
 4. Traffic Monitor
-5.  WPS Office
+5.  Microsoft Office 365
 6. Google Chrome
 7. sublime text3
 8. process on
