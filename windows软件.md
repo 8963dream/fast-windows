@@ -33,4 +33,12 @@
 31. Listary
 32. FlCrash
 33. espanso
+34. 腾讯软件管家
+35. AutoHotkey(切屏、抢票等)
+36. CLion
+37. JDK21
+38. Node.js
+39. Python
+40. 向日葵远程控制
+41. 驱动总裁
 
