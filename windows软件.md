@@ -5,7 +5,7 @@
 3. Snipaste
 4. Traffic Monitor
 5.  Microsoft Office 365
-6. Google Chrome
+6. Google Chrome / 星愿浏览器
 7. sublime text3
 8. process on
 9. 滴答清单
