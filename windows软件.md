@@ -4,7 +4,7 @@
 2. QQ
 3. Snipaste
 4. Traffic Monitor
-5.  Microsoft Office 365
+5. Microsoft Office 365
 6. Google Chrome / 星愿浏览器
 7. sublime text3
 8. process on
@@ -27,4 +27,9 @@
 25. Apifox 
 26. Maven
 27. 搜狗输入法
+28. Claude 和 Claude-cli
+29. 钱迹
+30. another
+31. Listary
+32. FlCrash
 
