@@ -5,7 +5,7 @@
 3. Snipaste
 4. Microsoft Office 365-正版
 5. Google Chrome
-6. sublime text
+6. sublime text-无提示手写算法
 7. process on-会员
 8. 滴答清单-真的需要它吗，不可否认的是开发者品味不错
 9. typora-请购买正版
