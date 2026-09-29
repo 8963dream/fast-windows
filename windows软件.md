@@ -31,7 +31,7 @@
 29. 钱迹
 30. another
 31. Listary
-32. FlCrash
+32. Clash Verge
 33. espanso
 34. 腾讯软件管家
 35. AutoHotkey(切屏、抢票等)
